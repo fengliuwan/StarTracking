@@ -1,6 +1,17 @@
-# A Tinder-like News App
-*	Designed an Instagram Flavor News app based on Google Component Architectural MVVM Pattern
-*	Implemented the bottom bar & page navigation using JetPack navigation component 
-*	Utilized 3rd party CardStackView(RecyclerView) to support swipe gestures for liking/disliking news
-*	Built the Room Database with LiveData & ViewModel to support local cache and offline model
-*	Integrated Retrofit and LiveData to pull the latest news data from a RESTFUL endpoint  (newsapi.org)
+# StarTracking
+React JS based Starlink trajectory visualization
+
+# Features
+*	Developed a visualization dashboard using ReactJS and D3 to track satellites in real-time based on geo-location.
+*	Built location, altitude, and duration based selector to refine satellite search.
+*	Animated selected satellite paths on a world map using D3 to improve user friendliness.
+
+# Demo
+[Video Demo](https://www.youtube.com/watch?v=g_zHqLKadrA)
+
+![WebPage](https://raw.githubusercontent.com/fengliuwan/StarTracking/main/stracking%20webpage.png)
+
+
+
+
+
